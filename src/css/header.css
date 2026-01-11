@@ -1,28 +1,28 @@
 .header {
   padding: 20px 0;
 }
-.nav {
+/* .nav {
   display: flex;
   justify-content: space-between;
-}
-.nav-logo {
+} */
+/* .nav-logo {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-}
-.nav-list {
+} */
+/* .nav-list {
   display: flex;
   align-items: center;
   justify-content: flex-end;
   gap: 40px;
-}
-.nav-link {
+} */
+/* .nav-link {
   position: relative;
   display: block;
   font-weight: 500;
   letter-spacing: 0.02em;
   transition: 200ms ease-in;
-}
+} */
 .nav-link:hover,
 .nav-link:focus {
   color: #747bff;
